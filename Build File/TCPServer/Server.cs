@@ -9,7 +9,7 @@ using System.Threading;
 
 namespace ThreadTCPServer
 {
-    class Final_202213204_Server
+    class Server
     {
         const int SERVERPORT = 9000;
         const int BUFSIZE = 512;
